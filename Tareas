@@ -1,0 +1,19 @@
+Intro:
+  La tesis se divide en 2 partes:
+   1) Extender la red del asesor y aplicarla a imágenes WSI que él subirá al Drive ya compartido.
+          (Entender como leer, aplicar filtro de forma clásica y con RNA este tipo de imágenes, hay librerías en Python para leer)
+          
+   2) Nuclear atypia
+      - Información sobre nuclear atypia https://www.nature.com/articles/s41598-018-37492-9
+      - Ver qué marcador usa
+      - Buscar datasets con anotaciones
+  Nota: Buscar papers del 2014 (1er challenge de nuclar atypia) en adelante    
+   ___________________________________________________________________________________________________________________________
+   
+ SEMANA 1: (Abril: 6-12)
+ - Acabar el curso de Stanford CS231N, al menos hasta el módulo 12
+ - Crear Drive/Github
+ - Manejar Overleaf con Mendeley
+ - Visual Studio Code como editor 
+ - Bucar datasets en los Challenges 2018-2019 y subirlos a Github en: https://grand-challenge.org/ 
+          
